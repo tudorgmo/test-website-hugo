@@ -1,4 +1,4 @@
 baseURL = 'https://tudorgmo.github.io/test-website-hugo/'
 locale = 'en-us'
-title = 'Tudor's Test Website'
+title = 'Tudor Test Website'
 theme = 'ananke'
