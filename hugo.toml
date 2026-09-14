@@ -2,3 +2,14 @@ baseURL = 'https://tudorgmo.github.io/test-website-hugo/'
 locale = 'en-us'
 title = 'Tudor Test Website'
 theme = 'ananke'
+
+[menus]
+[[menus.main]]
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menus.main]]
+name = "Posts"
+url = "/posts/"
+weight = 20
