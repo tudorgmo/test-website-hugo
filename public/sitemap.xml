@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/test-website-hugo/about/</loc>
-    <lastmod>2026-09-14T14:57:59-04:00</lastmod>
+    <loc>http://localhost:1313/test-website-hugo/posts/my-first-post/</loc>
+    <lastmod>2026-09-14T15:07:21-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/test-website-hugo/</loc>
-    <lastmod>2026-09-14T14:57:59-04:00</lastmod>
+    <loc>http://localhost:1313/test-website-hugo/posts/</loc>
+    <lastmod>2026-09-14T15:07:21-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/test-website-hugo/categories/</loc>
   </url><url>
